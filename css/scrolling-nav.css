@@ -48,14 +48,14 @@ of those sections to manage the look and feel of the site. */
 .ctpublications-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #eee;
 }
 
 .talks-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #fff;
 }
 
@@ -78,4 +78,8 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #eee;
+}
+
+.col-lg-12 {
+    text-align: center;
 }
